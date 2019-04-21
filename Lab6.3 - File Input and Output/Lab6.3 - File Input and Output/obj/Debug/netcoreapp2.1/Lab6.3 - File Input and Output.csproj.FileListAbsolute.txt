@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\bin\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\bin\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\bin\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\bin\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\bin\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.3 - File Input and Output\Lab6.3 - File Input and Output\obj\Debug\netcoreapp2.1\Lab6.3 - File Input and Output.pdb

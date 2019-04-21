@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\bin\Debug\netcoreapp2.1\Breakin and Continuing Loops.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\bin\Debug\netcoreapp2.1\Breakin and Continuing Loops.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\bin\Debug\netcoreapp2.1\Breakin and Continuing Loops.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\bin\Debug\netcoreapp2.1\Breakin and Continuing Loops.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\bin\Debug\netcoreapp2.1\Breakin and Continuing Loops.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\semesterOne\Breakin and Continuing Loops\Breakin and Continuing Loops\obj\Debug\netcoreapp2.1\Breakin and Continuing Loops.pdb

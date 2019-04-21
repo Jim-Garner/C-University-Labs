@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\bin\Debug\netcoreapp2.1\Lab6 - Exceptions.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\bin\Debug\netcoreapp2.1\Lab6 - Exceptions.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\bin\Debug\netcoreapp2.1\Lab6 - Exceptions.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\bin\Debug\netcoreapp2.1\Lab6 - Exceptions.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\bin\Debug\netcoreapp2.1\Lab6 - Exceptions.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6 - Exceptions\Lab6 - Exceptions\obj\Debug\netcoreapp2.1\Lab6 - Exceptions.pdb

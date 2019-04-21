@@ -1,0 +1,10 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\bin\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\bin\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\bin\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\bin\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\bin\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\obj\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\obj\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\obj\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\obj\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.5 - File Input and Output 3\Lab6.5 - File Input and Output 3\obj\Debug\netcoreapp2.1\Lab6.5 - File Input and Output 3.pdb

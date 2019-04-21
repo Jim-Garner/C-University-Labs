@@ -1,0 +1,10 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\bin\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\bin\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\bin\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\bin\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\bin\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\obj\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\obj\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\obj\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\obj\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\IntroductionToAlgorithmicThinking\Lab6.1 - Manipulating Strings\Lab6.1 - Manipulating Strings\obj\Debug\netcoreapp2.1\Lab6.1 - Manipulating Strings.pdb
