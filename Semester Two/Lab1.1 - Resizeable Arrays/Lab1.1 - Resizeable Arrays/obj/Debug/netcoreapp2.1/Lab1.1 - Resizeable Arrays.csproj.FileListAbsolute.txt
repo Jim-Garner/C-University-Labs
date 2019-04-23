@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\bin\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\bin\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\bin\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\bin\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\bin\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays\obj\Debug\netcoreapp2.1\Lab1.1 - Resizeable Arrays.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.1 - Resizeable Arrays", "Lab1.1 - Resizeable Arrays\Lab1.1 - Resizeable Arrays.csproj", "{F09E6F78-CABF-49F5-B9DA-3A4BDC16C0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09E6F78-CABF-49F5-B9DA-3A4BDC16C0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09E6F78-CABF-49F5-B9DA-3A4BDC16C0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09E6F78-CABF-49F5-B9DA-3A4BDC16C0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09E6F78-CABF-49F5-B9DA-3A4BDC16C0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB8D8EB-A240-466A-9379-6B81FF99AE3E}
+	EndGlobalSection
+EndGlobal

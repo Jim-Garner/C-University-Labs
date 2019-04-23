@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\bin\Debug\netcoreapp2.1\Lab1.2 - Generics.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\bin\Debug\netcoreapp2.1\Lab1.2 - Generics.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\bin\Debug\netcoreapp2.1\Lab1.2 - Generics.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\bin\Debug\netcoreapp2.1\Lab1.2 - Generics.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\bin\Debug\netcoreapp2.1\Lab1.2 - Generics.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab1.2 - Generics\Lab1.2 - Generics\obj\Debug\netcoreapp2.1\Lab1.2 - Generics.pdb
