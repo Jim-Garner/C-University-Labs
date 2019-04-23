@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\bin\Debug\netcoreapp2.1\Lab7 - Structs.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\bin\Debug\netcoreapp2.1\Lab7 - Structs.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\bin\Debug\netcoreapp2.1\Lab7 - Structs.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\bin\Debug\netcoreapp2.1\Lab7 - Structs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\bin\Debug\netcoreapp2.1\Lab7 - Structs.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7 - Structs\Lab7 - Structs\obj\Debug\netcoreapp2.1\Lab7 - Structs.pdb

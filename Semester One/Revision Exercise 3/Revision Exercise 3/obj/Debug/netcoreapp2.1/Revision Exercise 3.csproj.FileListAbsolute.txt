@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\bin\Debug\netcoreapp2.1\Revision Exercise 3.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\bin\Debug\netcoreapp2.1\Revision Exercise 3.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\bin\Debug\netcoreapp2.1\Revision Exercise 3.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\bin\Debug\netcoreapp2.1\Revision Exercise 3.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\bin\Debug\netcoreapp2.1\Revision Exercise 3.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Revision Exercise 3\Revision Exercise 3\obj\Debug\netcoreapp2.1\Revision Exercise 3.pdb

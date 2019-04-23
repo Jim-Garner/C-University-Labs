@@ -1,0 +1,7 @@
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csprojAssemblyReference.cache
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+\\net\dfs\home\533766\Desktop\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb

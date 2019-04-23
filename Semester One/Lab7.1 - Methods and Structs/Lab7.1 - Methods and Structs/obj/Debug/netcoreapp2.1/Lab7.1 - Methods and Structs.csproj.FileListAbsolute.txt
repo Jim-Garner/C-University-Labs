@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\bin\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\bin\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\bin\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\bin\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\bin\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Lab7.1 - Methods and Structs\Lab7.1 - Methods and Structs\obj\Debug\netcoreapp2.1\Lab7.1 - Methods and Structs.csprojAssemblyReference.cache
