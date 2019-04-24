@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\bin\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\bin\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\bin\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\bin\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\bin\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.2 - Exceptns and Constructrs\Lab2.2 - Exceptns and Constructrs\obj\Debug\netcoreapp2.1\Lab2.2 - Exceptns and Constructrs.pdb

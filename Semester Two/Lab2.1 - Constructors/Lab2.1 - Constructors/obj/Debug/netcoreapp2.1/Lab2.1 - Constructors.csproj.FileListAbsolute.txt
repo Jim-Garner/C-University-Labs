@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\bin\Debug\netcoreapp2.1\Lab2.1 - Constructors.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\bin\Debug\netcoreapp2.1\Lab2.1 - Constructors.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\bin\Debug\netcoreapp2.1\Lab2.1 - Constructors.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\bin\Debug\netcoreapp2.1\Lab2.1 - Constructors.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\bin\Debug\netcoreapp2.1\Lab2.1 - Constructors.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab2.1 - Constructors\Lab2.1 - Constructors\obj\Debug\netcoreapp2.1\Lab2.1 - Constructors.pdb
