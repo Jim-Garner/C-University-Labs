@@ -17,29 +17,22 @@ namespace Lab2._1___Constructors
             this.accountName = accountName;
             this.accountBalance = accountBalance;
             this.accountNumber = accountNumber;
+
+            //All constructors chain off of this now;
         }
 
         //Just like methods, we can overload constructors; Which is used depends on the signature passed to it;
 
-        public Account(string accountName) : this (accountName, 0)
+        public Account(string accountName, decimal accountBalance) : this(accountName, 0 , accountBalance)
         {
-            this.accountName = accountName;
-            accountBalance = 0;
-            accountNumber = 0;
+            //Chained to the three argument signature above;
         }
 
-        public Account(string accountName, decimal accountBalance)
+        public Account(string accountName) : this(accountName, 0)
         {
-            this.accountName = accountName;
-            this.accountBalance = accountBalance;
-            accountNumber = 0;
-
+            //Chained to the two argument signature above;
 
         }
-
-
-
-
 
 
         public void withdrawFunds(decimal amount)
@@ -70,13 +63,20 @@ namespace Lab2._1___Constructors
         static void Main(string[] args)
         {
             //The constructor allows us to build accounts like this now, saving on a lot of code;
-            Account A = new Account("Jim Garner", 15246, 500);
-            Account B = new Account("Dawn Bates", 15210, 650);
+            Account A = new Account("Jim Garner");
+            Account B = new Account("Dawn Bates");
             Account C = new Account("Tim Goodfellow", 14969, 500);
 
             Console.WriteLine(A.accountName);
+            Console.WriteLine(A.accountBalance);
+            Console.WriteLine(A.accountNumber);
+
             Console.WriteLine(B.accountName);
-            Console.WriteLine(C.accountName);
+            Console.WriteLine(B.accountBalance);
+            Console.WriteLine(B.accountNumber);
+
+            
+
         }
     }
 }
