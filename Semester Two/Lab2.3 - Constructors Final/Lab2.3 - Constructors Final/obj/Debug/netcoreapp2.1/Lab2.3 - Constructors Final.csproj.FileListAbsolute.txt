@@ -1,0 +1,11 @@
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\bin\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.deps.json
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\bin\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.runtimeconfig.json
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\bin\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.runtimeconfig.dev.json
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\bin\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.dll
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\bin\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.pdb
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.csprojAssemblyReference.cache
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.csproj.CoreCompileInputs.cache
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.AssemblyInfoInputs.cache
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.AssemblyInfo.cs
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.dll
+C:\Users\J396\source\repos\Lab2.3 - Constructors Final\Lab2.3 - Constructors Final\obj\Debug\netcoreapp2.1\Lab2.3 - Constructors Final.pdb
