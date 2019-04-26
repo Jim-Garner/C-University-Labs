@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\J396\\source\\repos\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj": {}
+    "C:\\Users\\J396\\OneDrive\\Desktop\\GitHub Repo\\C-University-Labs\\Semester Two\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\J396\\source\\repos\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj": {
+    "C:\\Users\\J396\\OneDrive\\Desktop\\GitHub Repo\\C-University-Labs\\Semester Two\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\J396\\source\\repos\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj",
+        "projectUniqueName": "C:\\Users\\J396\\OneDrive\\Desktop\\GitHub Repo\\C-University-Labs\\Semester Two\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj",
         "projectName": "Lab2.3 - Constructors Final",
-        "projectPath": "C:\\Users\\J396\\source\\repos\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj",
+        "projectPath": "C:\\Users\\J396\\OneDrive\\Desktop\\GitHub Repo\\C-University-Labs\\Semester Two\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final.csproj",
         "packagesPath": "C:\\Users\\J396\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\J396\\source\\repos\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\obj\\",
+        "outputPath": "C:\\Users\\J396\\OneDrive\\Desktop\\GitHub Repo\\C-University-Labs\\Semester Two\\Lab2.3 - Constructors Final\\Lab2.3 - Constructors Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\bin\Debug\netcoreapp2.1\Lab3 - Encapsulation.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\bin\Debug\netcoreapp2.1\Lab3 - Encapsulation.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\bin\Debug\netcoreapp2.1\Lab3 - Encapsulation.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\bin\Debug\netcoreapp2.1\Lab3 - Encapsulation.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\bin\Debug\netcoreapp2.1\Lab3 - Encapsulation.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3 - Encapsulation\Lab3 - Encapsulation\obj\Debug\netcoreapp2.1\Lab3 - Encapsulation.csprojAssemblyReference.cache

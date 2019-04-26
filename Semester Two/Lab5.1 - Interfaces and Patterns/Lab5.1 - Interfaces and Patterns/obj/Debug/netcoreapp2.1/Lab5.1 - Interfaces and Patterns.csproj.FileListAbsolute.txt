@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\bin\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\bin\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\bin\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\bin\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\bin\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab5.1 - Interfaces and Patterns\Lab5.1 - Interfaces and Patterns\obj\Debug\netcoreapp2.1\Lab5.1 - Interfaces and Patterns.pdb

@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\bin\Debug\netcoreapp2.1\Lab3.3 - Inheritance.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\bin\Debug\netcoreapp2.1\Lab3.3 - Inheritance.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\bin\Debug\netcoreapp2.1\Lab3.3 - Inheritance.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\bin\Debug\netcoreapp2.1\Lab3.3 - Inheritance.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\bin\Debug\netcoreapp2.1\Lab3.3 - Inheritance.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.3 - Inheritance\Lab3.3 - Inheritance\obj\Debug\netcoreapp2.1\Lab3.3 - Inheritance.pdb

@@ -1,0 +1,11 @@
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\bin\Debug\netcoreapp2.1\Lab3.2 - Tasks.deps.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\bin\Debug\netcoreapp2.1\Lab3.2 - Tasks.runtimeconfig.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\bin\Debug\netcoreapp2.1\Lab3.2 - Tasks.runtimeconfig.dev.json
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\bin\Debug\netcoreapp2.1\Lab3.2 - Tasks.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\bin\Debug\netcoreapp2.1\Lab3.2 - Tasks.pdb
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.csprojAssemblyReference.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.csproj.CoreCompileInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.AssemblyInfoInputs.cache
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.AssemblyInfo.cs
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.dll
+C:\Users\J396\OneDrive\Desktop\GitHub Repo\C-University-Labs\Semester Two\Lab3.2 - Tasks\Lab3.2 - Tasks\obj\Debug\netcoreapp2.1\Lab3.2 - Tasks.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab2._3___Constructors_Final
+namespace Lab2_3___Constructors_Final
 {
 
     class Account
